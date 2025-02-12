@@ -1,5 +1,5 @@
 Netflix Dashboard – Interactive Data Insights with Power BI
-![Netflix Dashboard](images/NetflixDashboard.png)
+![Netflix Dashboard](DashboardScreenshot.png)
 
 Overview
 
