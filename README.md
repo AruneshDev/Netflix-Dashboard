@@ -1,4 +1,7 @@
 Netflix Dashboard – Interactive Data Insights with Power BI
+## 📊 Netflix Analytics Presentation
+[View the full presentation here](https://docs.google.com/presentation/d/1IcaCHtsSx9Wxs0boniDnXDGapR6c_cM-iHRmjzXfPYk/edit#slide=id.g100b3f4e333_13_75)
+
 ![Netflix Dashboard](DashboardScreenshot.png)
 
 Overview
